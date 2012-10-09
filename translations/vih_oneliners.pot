@@ -1,0 +1,103 @@
+# $Id$
+#
+# LANGUAGE translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  vih_oneliners.features.field.inc: n/a
+#  vih_oneliners.features.inc: n/a
+#  vih_oneliners.views_default.inc: n/a
+#  vih_oneliners.info: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2012-10-09 13:39+0200\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: vih_oneliners.features.field.inc:181
+msgid "Billede"
+msgstr ""
+
+#: vih_oneliners.features.field.inc:182
+msgid "Body"
+msgstr ""
+
+#: vih_oneliners.features.inc:30
+msgid "Oneliners"
+msgstr ""
+
+#: vih_oneliners.features.inc:32
+msgid "Used for oneliners - small slogans."
+msgstr ""
+
+#: vih_oneliners.features.inc:34
+msgid "Title"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:182
+msgid "Master"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:183
+msgid "mere"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:184
+msgid "Udfør"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:185
+msgid "Gendan"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:186
+msgid "Sortér efter"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:187
+msgid "Stigende"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:188
+msgid "Faldende"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:189
+msgid "<h3>[title]</h3>"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:190
+msgid "Block"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:191
+msgid "Content pane"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:192
+msgid "Oneliners slideshow"
+msgstr ""
+
+#: vih_oneliners.views_default.inc:193
+msgid "View panes"
+msgstr ""
+
+#: vih_oneliners.info:0
+msgid "VIH Oneliners"
+msgstr ""
+
+#: vih_oneliners.info:0
+msgid "Holds oneliners and slogans"
+msgstr ""
+
+#: vih_oneliners.info:0
+msgid "VIH"
+msgstr ""
+
