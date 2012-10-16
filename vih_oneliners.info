@@ -3,7 +3,7 @@ description = Holds oneliners and slogans
 core = 7.x
 package = VIH
 php = 5.2.4
-version = 7.x-0.3
+version = 7.x-0.4
 project = vih_oneliners
 dependencies[] = ctools
 dependencies[] = features
@@ -11,6 +11,7 @@ dependencies[] = image
 dependencies[] = media
 dependencies[] = strongarm
 dependencies[] = views
+datestamp = 1346221374
 features[ctools][] = strongarm:strongarm:1
 features[ctools][] = views:views_default:3.0
 features[features_api][] = api:1
@@ -25,10 +26,3 @@ features[variable][] = node_options_oneliners
 features[variable][] = node_preview_oneliners
 features[variable][] = node_submitted_oneliners
 features[views_view][] = oneliners
-
-
-; Information added by drush on 2012-08-29
-version = "unknown"
-project = "vih"
-datestamp = "1346221374"
-

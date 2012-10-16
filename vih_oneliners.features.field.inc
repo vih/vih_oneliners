@@ -100,7 +100,7 @@ function vih_oneliners_field_default_fields() {
       'locked' => '0',
       'module' => 'image',
       'settings' => array(
-        'default_image' => '178',
+        'default_image' => 0,
         'uri_scheme' => 'public',
       ),
       'translatable' => '1',
