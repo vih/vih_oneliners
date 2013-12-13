@@ -176,6 +176,8 @@ function vih_oneliners_views_default_views() {
   $handler->display->display_options['fields']['edit_node']['field'] = 'edit_node';
   $handler->display->display_options['fields']['edit_node']['label'] = '';
   $handler->display->display_options['fields']['edit_node']['element_label_colon'] = FALSE;
+  $handler->display->display_options['pane_category']['name'] = 'VIH Admin';
+  $handler->display->display_options['pane_category']['weight'] = '0';
   $translatables['oneliners'] = array(
     t('Master'),
     t('mere'),
@@ -188,7 +190,7 @@ function vih_oneliners_views_default_views() {
     t('Block'),
     t('Content pane'),
     t('Oneliners slideshow'),
-    t('View panes'),
+    t('VIH Admin'),
   );
   $export['oneliners'] = $view;
 
